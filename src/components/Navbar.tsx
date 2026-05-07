@@ -39,7 +39,7 @@ export default function Navbar() {
             className="text-xl font-semibold tracking-tight"
             style={{ fontFamily: "Playfair Display, serif" }}
           >
-            AI <span className="gradient-text-gold">accountant</span>
+            Accura <span className="gradient-text-gold">AI</span>
           </span>
         </Link>
 
